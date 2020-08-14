@@ -3,7 +3,7 @@ A simple Databricks dashboard for visualizing your parquet data's distribution a
 
 ## How-To
 
-1. Import the VisualizeParquet.dbc notebook into your Databricks workspace.
+1. Import the **VisualizeParquet.dbc** archive file into your Databricks workspace.
 
 2. Open the notebook **Utils_VisualizeParquet**
 
